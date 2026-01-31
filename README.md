@@ -1,4 +1,4 @@
-# AI-powered-credit-risk-Model
+# AI-Powered Credit Risk Modeling with GenAI 
 credit-risk, risk-modeling, probability-of-default, pd-model, logistic-regression, xgboost, calibration, expected-loss, machine-learning, data-science, finance, banking, portfolio-analytics
 
 Project Overview . This project builds a full Credit Risk Modeling pipeline to estimate Probability of Default (PD) from a consumer loan dataset (cr_loan.csv).
