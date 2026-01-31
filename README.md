@@ -127,12 +127,15 @@ LLM Generates Grounded Explanation
 AI-powered-credit-risk-Model/
 
 │
+
 ├── loan_project.ipynb              # ML credit risk pipeline
 
 ├── genai_risk_assistant.ipynb      # RAG-based GenAI assistant
 
 ├── cr_loan.csv                     # Dataset
+
 │
+
 ├── docs/                           # Knowledge base
 
 │   ├── credit_policy.txt
@@ -140,7 +143,9 @@ AI-powered-credit-risk-Model/
 │   ├── risk_thresholds.txt
 
 │   ├── expected_loss_explained.txt
+
 │
+
 ├── ROC_curve.png
 
 ├── XGBoost_confusion_matrix.png
