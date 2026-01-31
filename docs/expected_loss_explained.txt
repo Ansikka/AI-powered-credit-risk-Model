@@ -1,0 +1,4 @@
+Expected Loss (EL) is calculated as:
+EL = PD × LGD × EAD
+
+EL helps quantify potential financial loss and guides underwriting decisions.
