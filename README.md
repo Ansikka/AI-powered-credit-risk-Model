@@ -125,6 +125,7 @@ LLM Generates Grounded Explanation
 📂 Project Structure
 
 AI-powered-credit-risk-Model/
+
 │
 ├── loan_project.ipynb              # ML credit risk pipeline
 
@@ -133,6 +134,7 @@ AI-powered-credit-risk-Model/
 ├── cr_loan.csv                     # Dataset
 │
 ├── docs/                           # Knowledge base
+
 │   ├── credit_policy.txt
 
 │   ├── risk_thresholds.txt
