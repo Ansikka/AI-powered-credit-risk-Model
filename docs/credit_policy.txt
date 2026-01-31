@@ -1,0 +1,3 @@
+Loans are approved based on Probability of Default (PD).
+Applicants with PD ≤ 10% are considered low risk.
+Applicants with PD > 10% are rejected to control portfolio risk.
